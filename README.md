@@ -44,5 +44,4 @@ The AI is implemented using the **Maxⁿ algorithm**, which extends the traditio
 
  # 🧪 How to Run
 git clone https:https://github.com/ShizaBajwa/-An-AI-Driven-3-Player-Chess-Variant.git
-pip install -r requirements.txt
-python ai-project.py
+python chess.py
