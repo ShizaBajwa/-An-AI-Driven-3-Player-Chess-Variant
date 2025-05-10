@@ -43,6 +43,5 @@ The AI is implemented using the **Maxⁿ algorithm**, which extends the traditio
 - Sound effects on moves
 
  # 🧪 How to Run
-- git clone https:https://github.com/ShizaBajwa/-An-AI-Driven-3-Player-Chess-Variant.git
+- git clone https://github.com/ShizaBajwa/-An-AI-Driven-3-Player-Chess-Variant.git
 - python chess.py
--
