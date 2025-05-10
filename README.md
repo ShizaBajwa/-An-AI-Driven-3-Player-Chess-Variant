@@ -45,3 +45,10 @@ The AI is implemented using the **Maxⁿ algorithm**, which extends the traditio
  # 🧪 How to Run
 - git clone https://github.com/ShizaBajwa/-An-AI-Driven-3-Player-Chess-Variant.git
 - python chess.py
+
+# ATTACHED BELOW ARE LINKS OF REPORT AND VIDEO:
+
+  Demo Video: https://github.com/user-attachments/assets/844260b7-d087-4d51-b148-5043b11bac1a
+  [Project Proposal.docx](https://github.com/user-attachments/files/20141703/Project.Proposal.docx)
+  [Final Project Report.docx](https://github.com/user-attachments/files/20141374/Final.Project.Report.docx)
+
