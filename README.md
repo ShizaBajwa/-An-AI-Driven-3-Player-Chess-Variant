@@ -2,7 +2,7 @@
 # 🧠 Multi-Player Strategy Chess (Three-Player Chess Variant)
 ## 🎯 Project Overview
 
-# Multi-Player Strategy Chess is a creative reimagining of traditional chess, extended into a three-player variant with a unique board layout, custom rules, and intelligent AI opponents powered by the Maxⁿ algorithm.
+Multi-Player Strategy Chess is a creative reimagining of traditional chess, extended into a three-player variant with a unique board layout, custom rules, and intelligent AI opponents powered by the Maxⁿ algorithm.
 
 # This Python-based game includes:
 - A visually engaging graphical user interface built using **Pygame**
@@ -29,11 +29,11 @@ The AI is implemented using the **Maxⁿ algorithm**, which extends the traditio
   - Player 1: Human (bottom row)
   - Player 2: AI (top row)
   - Player 3: AI (left column)
-# - Pieces: King, Queen, Rook, Bishop, Knight  
-# - No Castling or En Passant  
-# - Elimination Rule: Player is eliminated if their king is captured  
-# - Winning Condition: Last king standing wins  
-# - Turn Order: Round-robin (P1 → P2 → P3 → repeat)
+- Pieces: King, Queen, Rook, Bishop, Knight  
+- No Castling or En Passant  
+- Elimination Rule: Player is eliminated if their king is captured  
+- Winning Condition: Last king standing wins  
+- Turn Order: Round-robin (P1 → P2 → P3 → repeat)
 
  # 🖼️ GUI Features
 - Built with Pygame
@@ -44,6 +44,5 @@ The AI is implemented using the **Maxⁿ algorithm**, which extends the traditio
 
  # 🧪 How to Run
 git clone https:https://github.com/ShizaBajwa/-An-AI-Driven-3-Player-Chess-Variant.git
-cd multi-player-strategy-chess
 pip install -r requirements.txt
-python main.py
+python ai-project.py
